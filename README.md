@@ -2,7 +2,7 @@
 <h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulMj21&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMj21" />
 <a href="https://github.com/RahulMj21?tab=followers"><img src="https://img.shields.io/github/followers/RahulMj21?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
