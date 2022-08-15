@@ -42,7 +42,9 @@
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="linkedin.com/in/rahul-mondal-39927b200" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rahul Mondal" /></a>
-  <a title="rahulmondar@gmail.com" href="mailto: rahulmondar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RahulMj21" /></a> 
+<a href="https://twitter.com/RahulMj21" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="RahulMj21" /></a>
+<a title="rahulmondar@gmail.com" href="mailto: rahulmondar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RahulMj21" /></a> 
+  
 </p>
 
 
